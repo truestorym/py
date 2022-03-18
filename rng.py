@@ -15,7 +15,7 @@ def getInfo (): # Function to get the info
 
     headers = {
         'Accepts': 'application/json',
-        'X-CMC_PRO_API_KEY': '4f19e439-f6d3-4846-ac8e-bc7e722aee6f'
+        'X-CMC_PRO_API_KEY': 'YOUR KEYYYYYYYYYY!!!!!!!!!!!!!!'
     } 
 
     session = Session()
